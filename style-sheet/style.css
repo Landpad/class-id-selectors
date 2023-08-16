@@ -1,0 +1,18 @@
+.oddNmbr {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: pink;
+}
+
+#id-1 {
+    color: blue;
+    font-size: 36px;
+}
+
+.oddNmbr.cooler {
+    font-size: 24px;
+}
+
+#id-3 {
+    background-color: lightgreen;
+    font-weight: bold;
+}
